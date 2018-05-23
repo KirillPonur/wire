@@ -41,7 +41,8 @@ Min=np.array([
 	2.4,2.8,3,4.2,4,5.4,5.1,6.3
 	])*0.02
 print(Max/Min)
-plt.plot(rp,Max/Min)
+plt.plot(rp,(Max**2+Min**2)/(Max**2-Min**2))
+# plt.plot(rp,Min/Max)
 plt.show()
 
 # оба в центре

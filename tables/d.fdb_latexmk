@@ -1,0 +1,9 @@
+# Fdb version 3
+["pdflatex"] 1527089484 "d.tex" "d.pdf" "d" 1527089484
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1520157258 32585 d82bbcf7626b7842c87671687479e852 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1522581394 7738160 f789f6efae99a926314cef46ec703c48 ""
+  "d.aux" 1527089073 8 a94a2480d3289e625eea47cd1b285758 ""
+  "d.tex" 1527089452 2733 fb8b6b2cc9d1585efa718c3e953826ec ""
+  (generated)
+  "d.pdf"
+  "d.log"
